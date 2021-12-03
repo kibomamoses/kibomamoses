@@ -6,9 +6,9 @@
 
 
 - 🔭 I’m currently working on PHP(Laravel),Python(Django),Javascript(Nodejs, React),AWS,Docker and SQL
-- 🌱 I’m currently learning Machine learning 
+- 🌱 I’m currently learning Data Science
 - 👯 I’m looking to collaborate on any Fullstack Dev(PHP,Python,Javascript) and Machine Learning(python) related project
-- 💬 Ask me about  anything related with Web Development and Machine learning.
+- 💬 Ask me about  anything related with Web Development and Data Science.
 - 📫 How to reach me:kibomamoses100@gmail.com
 
 <center>
