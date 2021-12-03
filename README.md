@@ -19,7 +19,7 @@
           <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=kibomamoses&count_private=true&show_icons=true&theme=dark&layout=compact"/>
        </td>
     <td>
-      <figure><embed src="https://wakatime.com/share/@kibomamoses/9ab7db40-31cb-4949-9491-8fc13dfcefde.svg"></embed></figure>
+     <a href="https://wakatime.com"><img src="https://wakatime.com/share/@kibomamoses/54363a78-c5c2-4b37-b41c-3f0b2ed279c6.png" /></a>
     </td>
   </tr>   
 </table>
