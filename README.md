@@ -2,7 +2,7 @@
 
 
 ![Profile views](https://gpvc.arturio.dev/kibomamoses)
-### Hi there <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">,I am <b>Python,PHP and JavaScript</b> developer
+### Hi there <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">,I am <b>Python,PHP and JavaScript</b> Developer
 
 
 - 🔭 I’m currently working on Data science,Python(Django),AWS,Docker,SQL and MongoDB
@@ -19,8 +19,8 @@
           <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=kibomamoses&count_private=true&show_icons=true&theme=dark&layout=compact"/>
        </td>
     <td>
-     <a href="https://wakatime.com"><img src="https://wakatime.com/share/@kibomamoses/c56eadc7-1b33-4205-a2ef-457fd1bdd28d.png" /></a>
-    </td>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@kibomamoses/bf66ae24-6a22-4359-a66e-404d74645810.png" /></a>
+       </td>
   </tr>   
 </table>
 </center>
