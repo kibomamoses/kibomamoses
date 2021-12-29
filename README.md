@@ -20,8 +20,7 @@
        </td>
     <td>
       <a href="https://wakatime.com"><img src="https://wakatime.com/share/@kibomamoses/aa89c719-ceaa-4c76-87c3-b92c72efe3f8.png" /></a>
-
-       </td>
+    </td>
   </tr>   
 </table>
 </center>
