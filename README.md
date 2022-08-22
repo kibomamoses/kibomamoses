@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on Data science(python and R),AWS,SAS,SQL and NoSQL databases
 - 🌱 I’m currently learning Data Science
-- 👯 I’m looking to collaborate on any Fullstack Dev(Laravel,Django,React) and Data Science (python and R) related projects
+- 👯 I’m looking to collaborate on any Fullstack Dev(Django,Reactjs,Nodejs) and Data Science (python and R) related projects
 - 💬 Ask me about  anything related with Web Development and Data Science.
 - 📫 How to reach me:kibomamoses100@gmail.com
 
