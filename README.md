@@ -8,9 +8,10 @@ We specialize in:
 - 🔗 **Web3 Technologies**: Building decentralized applications and blockchain solutions.
 
 ### Our Current Projects
-- 🔭 Currently working on AI and data analytics using Python, R, and various database technologies (SQL, NoSQL).
-- 🌱 Exploring advancements in deep learning and its applications.
-- 👯 Open to collaboration on projects related to full-stack development (Django, WordPress, Drupal), AI, data science, and Web3.
+- 🔭 **AI-Powered Analytics Platform**: Building a robust platform for predictive analytics and data visualization using Python and R.
+- 🌱 **Metaverse Development**: Creating immersive virtual environments and interactive experiences.
+- 🔗 **Web3 Solutions**: Developing decentralized applications (DApps) and blockchain-based systems.
+- 📊 **Big Data Integration**: Implementing large-scale data processing and analytics solutions with AWS and various database technologies.
 
 ### Connect with Us
 - 💬 Feel free to ask us about anything related to AI, data science, metaverse development, and Web3.
