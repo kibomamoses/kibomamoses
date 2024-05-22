@@ -15,7 +15,7 @@ We specialize in:
 
 ### Connect with Us
 - 💬 Feel free to ask us about anything related to AI, data science, metaverse development, and Web3.
-- 📫 Reach us at: [yourcompanyemail@example.com]
+- 📫 Reach us at: [datacodytech@gmail.com]
 
 <center>
   <table>
